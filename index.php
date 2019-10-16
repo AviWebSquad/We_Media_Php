@@ -1,3 +1,6 @@
+
 <?php
-echo "Hi" ;
+echo "Hello";
+echo "Hi";
 ?>
+
